@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "title": "Изучаем Python",
+    "category": "Программирование",
+    "amount": 800,
+    "completed": true
+  },
+  {
+    "id": 2,
+    "title": "Грокаем алгоритмы",
+    "category": "Алгоритмы",
+    "amount": 290,
+    "completed": true
+  },
+  {
+    "id": 3,
+    "title": "Чистый код",
+    "category": "Программирование",
+    "amount": 460,
+    "completed": false
+  },
+  {
+    "id": 4,
+    "title": "Дюна",
+    "category": "Фантастика",
+    "amount": 700,
+    "completed": false
+  }
+]
